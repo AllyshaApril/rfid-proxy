@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: rfid-api
+    env: docker
+    plan: free
+    region: singapore
