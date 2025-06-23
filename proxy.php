@@ -14,3 +14,4 @@ $infinityfree_url = "https://intellilab.infinityfreeapp.com/test_RFID.php?card=$
 $response = file_get_contents($infinityfree_url);
 
 echo $response;
+?>
